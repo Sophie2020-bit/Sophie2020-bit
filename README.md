@@ -12,16 +12,6 @@ Neuroimaging researcher studying white matter brain function with fMRI, genetics
 - [Handwritten Digit Recognition](https://github.com/Sophie2020-bit/Handwritten-Digit-Recognition-with-Neural-Networks) — BP network, MLP and CNN on MNIST, plus a draw-and-predict GUI
 - [Iris classification with TensorFlow](https://github.com/Sophie2020-bit/iris-tensorflow-demo) — manual training loop, Keras Sequential, and Model subclassing
 
-## 🛠️ Side projects
-
-| Project | What it is | Stack |
-|---------|-----------|-------|
-| [ECloset](https://ecloset.yalilab.com) | AI wardrobe: photograph clothes, AI tags them, get explainable outfit suggestions | Next.js · Supabase · LLM vision |
-| [Lumina Daily](https://e-life-shop.com) | Direct-to-consumer online store | Medusa · Next.js |
-| VisaSnap AI | Visa / passport photo processing MVP | Python · computer vision |
-| Snake | Classic Snake game in the browser | HTML · CSS · JavaScript |
-| Happy19 | A birthday website | HTML · CSS |
-
 ## 🧰 Tools
 
-Python · fMRI analysis · statistical genetics · TensorFlow / Keras · TypeScript · Next.js · Docker
+Python · fMRI analysis · statistical genetics · TensorFlow / Keras · Docker
